@@ -1,0 +1,25 @@
+{
+  "name": "Airline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "start": "node-dev application"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchandiok/Airline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchandiok/Airline/issues"
+  },
+  "homepage": "https://github.com/pchandiok/Airline#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mongoose": "^5.11.8"
+  }
+}
